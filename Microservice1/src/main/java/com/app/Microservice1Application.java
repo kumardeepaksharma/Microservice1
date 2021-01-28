@@ -12,6 +12,7 @@ public class Microservice1Application {
 		SpringApplication.run(Microservice1Application.class, args);
 		System.out.println("Eureka server start");
 		System.out.println("hay");
+		System.out.println("bay");
 	}
 
 }
